@@ -2,6 +2,13 @@
   font-family: "Montserrat";
 }
 
+@media (max-width: 1028px) {
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
 #title {
   background-color: #ff4c68;
   color: #ffff;
@@ -126,4 +133,17 @@ p {
 }
 .pricing-column {
   padding: 3% 2%;
+}
+
+/*Call to action*/
+#cta {
+  background-color: #ff4c68;
+  color: #ffff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.cta-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1;
 }
