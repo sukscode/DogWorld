@@ -6,7 +6,7 @@
   background-color: #ff4c68;
   color: #ffff;
 }
-
+/*H1-P*/
 h1 {
   font-family: "Montserrat-Black-Extra-Bold";
   font-size: 3rem;
@@ -113,4 +113,13 @@ p {
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+/*Pricing*/
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column {
+  padding: 3% 2%;
 }
