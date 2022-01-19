@@ -147,3 +147,12 @@ p {
   font-size: 3.5rem;
   line-height: 1;
 }
+
+/*Footer-section*/
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon {
+  margin: 20px 10px;
+}
