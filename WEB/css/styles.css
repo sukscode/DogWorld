@@ -131,6 +131,10 @@ p {
   padding: 100px;
   text-align: center;
 }
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
 .pricing-column {
   padding: 3% 2%;
 }
@@ -154,5 +158,6 @@ p {
   text-align: center;
 }
 .social-icon {
+  font-size: 1.5rem;
   margin: 20px 10px;
 }
